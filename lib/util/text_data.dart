@@ -8,6 +8,7 @@ List<String> people = [
       'hussin',
       'abdulrahman',
       'ali',
+      'ahmed',
     ],
     images = [
       'assets/images/user-1.jpg',
@@ -19,17 +20,19 @@ List<String> people = [
       'assets/images/user-7.jpg',
       'assets/images/user-8.jpg',
       'assets/images/user-4.jpg',
+      'assets/images/user-6.jpg',
     ],
     postImages = [
-      'assets/images/user-1.jpg',
-      'assets/images/user-2.jpg',
-      'assets/images/user-3.jpg',
       'assets/images/user-4.jpg',
       'assets/images/user-5.jpg',
-      'assets/images/user-6.jpg',
-      'assets/images/user-7.jpg',
-      'assets/images/user-8.jpg',
+      'assets/images/user-2.jpg',
       'assets/images/user-1.jpg',
+      'assets/images/user-7.jpg',
+      'assets/images/user-1.jpg',
+      'assets/images/user-3.jpg',
+      'assets/images/user-8.jpg',
+      'assets/images/user-2.jpg',
+      'assets/images/user-6.jpg',
     ],
     postLiked = [
       'halima',
@@ -41,6 +44,7 @@ List<String> people = [
       'ali',
       'abdulrahman',
       'mohamed',
+      'mohamed',
     ],
     postNumberLiked = [
       '750',
@@ -51,5 +55,6 @@ List<String> people = [
       '271',
       '122',
       '543',
+      '192',
       '192',
     ];
