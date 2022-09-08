@@ -22,10 +22,10 @@ class Account extends StatelessWidget {
               'abdullatif.alsnousi',
               style: TextStyle(fontSize: 24),
             ),
-            // const Icon(
-            //   Icons.keyboard_arrow_down_sharp,
-            //   size: 35,
-            // ),
+            const Icon(
+              Icons.keyboard_arrow_down_sharp,
+              size: 35,
+            ),
             Row(
               children: [
                 GestureDetector(
